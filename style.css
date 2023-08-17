@@ -1,0 +1,12 @@
+body p {
+    margin: 40px;
+    padding: 20px;
+    
+}
+.paragrafo-normal {
+    background-color: #F5F5F5;
+}
+
+.paragrafo-destaque{
+    background-color: #F0CCE2;
+}
